@@ -1,2 +1,2 @@
-# Restful Webservices
-Creating custom webservice Drupal 8
+# Restful Webservices Drupal 8
+Create custom rest resource endpoint to POST data into system. 
